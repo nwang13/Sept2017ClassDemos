@@ -73,6 +73,7 @@
     <Compile Include="Entities\Track.cs" />
     <Compile Include="POCOs\ArtistAlbumByReleaseYear.cs" />
     <Compile Include="POCOs\EmployeeListPOCO.cs" />
+    <Compile Include="POCOs\GenreAlbumReport.cs" />
     <Compile Include="POCOs\RegisteredEmployeePOCO.cs" />
     <Compile Include="POCOs\SelectionList.cs" />
     <Compile Include="POCOs\TrackList.cs" />
