@@ -172,6 +172,8 @@
             <span aria-hidden="true" class="glyphicon glyphicon-remove"
                  style="color:red"></span>
         </asp:LinkButton>
+
+
         <br /><br />
         <asp:GridView ID="PlayList" runat="server" AutoGenerateColumns="False"
              Caption="PlayList" GridLines="Horizontal" BorderStyle="None">
