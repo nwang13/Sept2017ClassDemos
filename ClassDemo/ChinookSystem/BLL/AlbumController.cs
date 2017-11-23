@@ -87,6 +87,7 @@ namespace ChinookSystem.BLL
                 return item.AlbumId;
             }
         }
+
         [DataObjectMethod(DataObjectMethodType.Update,false)]
         public int Albums_Update(Album item)
         {
