@@ -175,8 +175,11 @@
 
 
         <br /><br />
-        <asp:GridView ID="PlayList" runat="server" AutoGenerateColumns="False"
-             Caption="PlayList" GridLines="Horizontal" BorderStyle="None">
+        <asp:GridView ID="PlayList" 
+            runat="server" 
+            AutoGenerateColumns="False"
+             Caption="PlayList" 
+            GridLines="Horizontal" BorderStyle="None">
             <Columns>
                 <asp:TemplateField >
                     <ItemTemplate>
