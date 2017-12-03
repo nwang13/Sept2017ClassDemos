@@ -349,7 +349,7 @@
 
        <%--  <asp:RadioButtonList ID="RadioButtonList1" runat="server"
                     SelectedValue='<%# Eval("Gender") %>'
-                    RepeatDirection="Horizontal" RepeatLayout="Flow">                             >
+                    RepeatDirection="Horizontal" RepeatLayout="Flow">                             
             <asp:ListItem Value="M">Male</asp:ListItem>
             <asp:ListItem Value="F">Female</asp:ListItem>
          </asp:RadioButtonList>--%>
